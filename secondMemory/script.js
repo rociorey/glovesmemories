@@ -1,3 +1,5 @@
+// Code inspired by @rifke.world
+
 let ctx;
 
 var img2=new Image();
